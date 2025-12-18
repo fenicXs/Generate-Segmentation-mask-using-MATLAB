@@ -2,7 +2,7 @@
 
 Coarse-to-fine chest X-ray segmentation that pairs multi-threshold Otsu for initial region separation with an active contour (snake) refinement driven by user-marked ROI seeds.
 
-![Original vs Multi-Otsu](images/multi_otsu.png)
+![Original vs Multi-Otsu](images/RGB & seg.png)
 
 ## Repository contents
 - `multi_otsu.m` - main script that runs multi-threshold Otsu and shows a montage of the input and segmented image.
